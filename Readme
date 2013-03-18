@@ -1,0 +1,33 @@
+
+
+    Mobi Business Directory is a a Simple Application written solely for beginners & intermmediate Developers
+    The Directory Adds Data to a database and uses twitter bootstraping for forms and Ajax.
+
+    So I would think it uses INSERT into MySQL Database
+
+    Mobi Business Version 1.0 
+
+   +---How to use ----+
+
+    (1) Create a new database and call it mobi
+    (2) Change values in db.php to match your current database connection
+    (3) Please do send me an email if you have issues or need help modifying the script - peacengara@aol.com
+   +---Version 2-------+
+
+    Version 2 of the Software is still on development and in this version you will be able to retrieve data and perfom CRUD operations.
+    
+
+    Copyright (C) 2013 | Created by Peace Ngara |  Email: peacengara@aol.com   | Donations are also welcome
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
